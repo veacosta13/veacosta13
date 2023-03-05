@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 * Habilidades de comunicación
 * Habilidades sociales
 * Empatía 
-*Gestión del tiempo 🕔
+* Gestión del tiempo 🕔
 * Trabajo en equipo
 
 ### Hard-Skill
